@@ -11,7 +11,7 @@
 </h1>
 
 ----------------
-##Camlock Main Settings:
+## Camlock Main Settings:
 
 Keybind: Click the square to set the camlock's keybind.
 
@@ -37,4 +37,4 @@ FOV_Type = {
       Dynamic = "Makes the FOV Radius bigger when you get close of the target and makes it smaller when u get farther from the target."
 }
 
-##Camlock Extra Settings/
+## Camlock Extra Settings/
