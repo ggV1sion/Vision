@@ -6,6 +6,6 @@
   </a>
 </div>
 <h1>
+    <img src="https://cdn.discordapp.com/attachments/1058483919474925610/1064658114315567245/vision_logo_png.png" width="50"/>
   Welcome to Vision's documentation.
-  <img src="https://cdn.discordapp.com/attachments/1058483919474925610/1064658114315567245/vision_logo_png.png" width="30"/>
 </h1>
