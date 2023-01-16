@@ -48,3 +48,33 @@ FOV_Type = {
 }
 
 ## Camlock Extra Settings/
+
+[🟦] Show FOV: Let you see your field of view.
+
+[🟦] Use Y Axis: Makes the camlock use Y axis (Up and down movement, you can check it by yourself).
+
+[🟦] Ignore Aimparts: Makes the camlock ignore specified aimparts with the dropdown below the toggle.
+
+[🟦] Wall Check: Stop the camlock if theres a wall between you and the target.
+
+[🟦] Visible Check: Stop the camlock if the target isn't on your screen.
+
+[🟦] ForceField Check: Stop the camlock if the target has a forcefield.
+
+[🟦] SelfAlive Check: Stop the camlock if you're K.O.
+
+[🟦] TargetKO Check: Stop the camlock if the target is K.O.
+
+[🟦] Grabbed Check: Stop the camlock if the target is grabbed by someone.
+
+[🟦] Crew Check: Stop the camlock if the target is in your crew.
+
+[🟦] Is in radius Check: Stop the camlock if the target is not in your field of view.
+
+[🟦] Reloading Check: Stop the camlock if you're reloading.
+
+[🟦] First Person Only: Stop the camlock if you're in third person.
+
+[🟦] Allow Shift Lock: Allow the camlock to be in third person with shiftlock (if you enabled First Person Only).
+
+[🟦] Third Person Only: Stop the camlock if you're in first person.
