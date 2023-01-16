@@ -47,7 +47,7 @@ FOV_Type = {
       
 }
 
-## Camlock Extra Settings/
+## Camlock Extra Settings:
 
 [🟦] Show FOV: Let you see your field of view.
 
@@ -78,3 +78,7 @@ FOV_Type = {
 [🟦] Allow Shift Lock: Allow the camlock to be in third person with shiftlock (if you enabled First Person Only).
 
 [🟦] Third Person Only: Stop the camlock if you're in first person.
+
+----------------
+## Configuration:
+Soon. (Still works)
