@@ -59,7 +59,7 @@ FOV_Type = {
 
 [🟦] Show FOV: Let you see your field of view.
 
-[🟦] Use Y Axis: Makes the camlock use Y axis, also prevent from shooting the ground (Up and down movement, you can check it by yourself).
+[🟦] Use Y Axis: Makes the camlock use Y axis (Up and down movement, you can check it by yourself) also prevent from shooting the ground if disabled.
 
 [🟦] Ignore Aimparts: Makes the camlock ignore specified aimparts with the dropdown below the toggle.
 
