@@ -81,4 +81,8 @@ FOV_Type = {
 
 ----------------
 ## Configuration:
-Soon. (Still works)
+Configurations Dropdown : Allows you to switch configuration and save / load them.
+
+Save Button : Save your current configuration to the selected configuration.
+
+Load Button : Load the current selected configuration.
