@@ -25,6 +25,14 @@ Smoothness Value: Sets the camlock's smoothness ammount.
 
 [🟦] Resolver: If someone uses antilocks or desync, it bypasses it (most of the time).
 
+ResolverType = {
+
+      Everytime = "Resolve no matter what",
+      
+      When_velocity ok im doing this later im lazy as shit
+      
+}
+
 [🟦] Shake: Makes your camera shake when you're locking on someone.
 
 Shake Intensity: How hard your screen is going to shake.
@@ -51,7 +59,7 @@ FOV_Type = {
 
 [🟦] Show FOV: Let you see your field of view.
 
-[🟦] Use Y Axis: Makes the camlock use Y axis (Up and down movement, you can check it by yourself).
+[🟦] Use Y Axis: Makes the camlock use Y axis, also prevent from shooting the ground (Up and down movement, you can check it by yourself).
 
 [🟦] Ignore Aimparts: Makes the camlock ignore specified aimparts with the dropdown below the toggle.
 
