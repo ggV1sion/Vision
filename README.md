@@ -13,9 +13,13 @@
 ----------------
 
 getgenv().VisionSettings = {
+
     uiKeybind = Enum.KeyCode.RightControl, : The keybind to hide the Gui, if you want to edit the keybind, replace "RightControl" with the key you want (https://create.roblox.com/docs/reference/engine/enums/KeyCode)
+    
     LoadDefaultSettings = true, : true to load default settings and false to not load them (Make the default settings in the Configuration Tab).
+    
     enableESP = false : false to disable ESP and true to enable ESP.
+    
 }
 
 ----------------
