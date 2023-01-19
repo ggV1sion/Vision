@@ -10,6 +10,8 @@
   Welcome to Vision's documentation.
 </h1>
 
+## Vision Settings:
+
 ----------------
 
 getgenv().VisionSettings = {
