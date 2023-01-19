@@ -11,6 +11,14 @@
 </h1>
 
 ----------------
+
+getgenv().VisionSettings = {
+    uiKeybind = Enum.KeyCode.RightControl, : The keybind to hide the Gui, if you want to edit the keybind, replace "RightControl" with the key you want (https://create.roblox.com/docs/reference/engine/enums/KeyCode)
+    LoadDefaultSettings = true, : true to load default settings and false to not load them (Make the default settings in the Configuration Tab).
+    enableESP = false : false to disable ESP and true to enable ESP.
+}
+
+----------------
 ## Camlock Main Settings:
 
 Keybind: Click the square to set the camlock's keybind.
@@ -29,7 +37,7 @@ ResolverType = {
 
       Everytime = "Resolve no matter what",
       
-      When_velocity ok im doing this later im lazy as shit
+      When_velocity_is_too_high = "Only resolve when the target's velocity is being too high (+Velocity Slider) or too low (-Velocity Slider).
       
 }
 
