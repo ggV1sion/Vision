@@ -41,7 +41,7 @@ Smoothness Value: Sets the camlock's smoothness ammount.
 
 ResolverType = {
 
-      Everytime = "Resolve no matter what",
+      Everytime = "Resolve no matter what (We recommend this).
       
       When_velocity_is_too_high = "Only resolve when the target's velocity is being too high (+Velocity Slider) or too low (-Velocity Slider).
       
